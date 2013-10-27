@@ -1,7 +1,7 @@
 package com.CSB3411.fichero;
 
 import java.util.ArrayList;
-
+/*este es un comentario de prueba de gitHub*/
 public class EstructuraCSB3411 {
 	
 
